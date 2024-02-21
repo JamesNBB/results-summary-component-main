@@ -100,7 +100,6 @@ body {
     font-size: 17px;
     opacity: .7;
     margin-top: -7px;
-
 }
 
 
@@ -204,18 +203,6 @@ button:hover {
 
 button:active {    
     opacity: 0.8;
-}
-
-
-
-.attribution { 
-    font-size: 11px; 
-    text-align: center; 
-    font-style: italic;
-}
-.attribution a { 
-    color: var(--dark-gray-blue); 
-    text-decoration: none;
 }
 
 
